@@ -1,0 +1,33 @@
+.nav-item .nav-link {
+    color: whitesmoke;
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: #41a34e;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.nav-item:last-child .nav-link {
+    background-color: #7d56c1;
+    width: 58px;
+    height: 58px;
+}
+.carousel-caption{
+    top:25%;
+    left:10%;
+    right:60%;
+}
+.carousel-caption h5{
+    font-size: 2rem;
+    color:red;
+}
+.carousel-caption p{
+    font-size: 1.5rem;
+    color:#41a34e
+
+}
